@@ -54,11 +54,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="NoteCreate.cs" />
+    <Compile Include="NotListItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ElevenNoteDemo.Data\ElevenNoteDemo.Data.csproj">
+      <Project>{5afecd03-1310-49c5-a638-c48961639471}</Project>
+      <Name>ElevenNoteDemo.Data</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

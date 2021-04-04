@@ -13,3 +13,7 @@ C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\obj\De
 C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\obj\Debug\ElevenNoteDemo.Data.csproj.CopyComplete
 C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\obj\Debug\ElevenNoteDemo.Data.dll
 C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\obj\Debug\ElevenNoteDemo.Data.pdb
+C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\obj\Debug\ElevenNoteDemo.Data.csprojAssemblyReference.cache
+C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\obj\Debug\ElevenNoteDemo.Data.Migrations.InitialCreate.resources
+C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\obj\Debug\ElevenNoteDemo.Data.csproj.GenerateResource.cache
+C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\obj\Debug\ElevenNoteDemo.Data.Migrations.InitialMigration.resources
