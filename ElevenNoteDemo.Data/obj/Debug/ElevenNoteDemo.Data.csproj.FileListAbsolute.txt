@@ -1,0 +1,15 @@
+C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\bin\Debug\ElevenNoteDemo.Data.dll.config
+C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\bin\Debug\ElevenNoteDemo.Data.dll
+C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\bin\Debug\ElevenNoteDemo.Data.pdb
+C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\bin\Debug\EntityFramework.dll
+C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\bin\Debug\EntityFramework.xml
+C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\obj\Debug\ElevenNoteDemo.Data.csproj.CoreCompileInputs.cache
+C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\obj\Debug\ElevenNoteDemo.Data.csproj.CopyComplete
+C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\obj\Debug\ElevenNoteDemo.Data.dll
+C:\ElevenfiftyProjects\RedBadge\ElevenNoteDemo.WebMVC\ElevenNoteDemo.Data\obj\Debug\ElevenNoteDemo.Data.pdb
